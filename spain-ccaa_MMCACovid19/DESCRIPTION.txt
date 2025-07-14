@@ -1,0 +1,2 @@
+NAME: COVID-19 Spain Regional Model at the Autonomous Comunities level for the MMCACovid19 engine.
+DESCRIPTION: this model was developed to simulate the spread of SARS-CoV-2 virus in Spain in 2020. The metapopulation is defined using the 19 autonomous comunities, into which the provinces are agreggated.
