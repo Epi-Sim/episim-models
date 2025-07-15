@@ -1,3 +1,0 @@
-NAME: COVID-19 Spain Model in MITMA areas for the MMCACovid19Vac engine
-DESCRIPTION: this model was developed to simulate the spread of SARS-CoV-2 virus in Spain in 2020. The metapopulation is defined using 2850 mobility areas that broadly correspond to municipalities, districts or groups of the later depending on the population density.
-

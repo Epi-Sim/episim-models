@@ -1,2 +1,0 @@
-NAME: COVID-19 Catalonia Model at the Census Tract level for the MMCACovid19 engine.
-DESCRIPTION: this model was developed to simulate the spread of SARS-CoV-2 virus in Catalonia in 2020. The metapopulation is defined using 15267 census tracts, which can be aggregated into districts and subsequently into municipalities.
