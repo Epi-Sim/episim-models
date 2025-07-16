@@ -1,0 +1,20 @@
+name,id,idx,Y,M,O
+Andalucía,01,1,0.72,0.96,4.32
+Aragón,02,2,0.48,0.64,2.88
+Principado de Asturias,03,3,0.12,0.16,0.72
+Illes Balears,04,4,0.12,0.16,0.72
+Canarias,05,5,0.12,0.16,0.72
+Cantabria,06,6,0.12,0.16,0.72
+Castilla y León,07,7,2.4,3.2,14.4
+Castilla-La Mancha,08,8,1.8,2.4,10.8
+Cataluña,09,9,2.4,3.2,14.4
+Comunitat Valenciana,10,10,0.96,1.28,5.76
+Extremadura,11,11,0.48,0.64,2.88
+Galicia,12,12,0.24,0.32,1.44
+Comunidad de Madrid,13,13,6,8,36
+Región de Murcia,14,14,0.12,0.16,0.72
+Comunidad Foral de Navarra,15,15,0.48,0.64,2.88
+País Vasco,16,16,0.36,0.48,2.16
+La Rioja,17,17,0.48,0.64,2.88
+Ceuta,18,18,0.012,0.016,0.072
+Melilla,19,19,0.012,0.016,0.072

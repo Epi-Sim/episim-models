@@ -1,5 +1,0 @@
-NAME: COVID-19 Spain model in MITMA areas
-VESRION: 0.0.2
-DESCRIPTION: the model was developed to simulate the spreading of SARAS-CoV-2 virus in Spain in 2020. The metapopulation is defined using 2850 mobility areas that broadly correspond to municipalities, districs or groups of the later dependiend on the population density.
-
-
